@@ -1,0 +1,6 @@
+@SQLToXLSX_HostAddress = http://localhost:5022
+
+GET {{SQLToXLSX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
